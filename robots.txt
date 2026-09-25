@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.szdianshi.cn/sitemap.xml
